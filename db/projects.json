@@ -1,0 +1,127 @@
+[{
+  "_id": {
+    "$oid": "603871aad17aed13b07b2e63"
+  },
+  "name": "PeliculasApp Angular",
+  "description": "Se desarrolla una aplicación de tipo SPA haciendo uso de Angular, que permite la obtención de información sobre películas y su reparto. Se utiliza la base datos de películas The Movie Database (TMDb) para obtener la información consumiendo la TMDb API en la aplicación.",
+  "category": "Desarrollo web",
+  "languages": [
+    "HTML",
+    "CSS",
+    "JavaScript",
+    "Bootstrap 4",
+    "Angular"
+  ],
+  "created_at": "2020-2021",
+  "image": "",
+  "github_url": "https://github.com/miguel9903/PeliculasApp-Angular-TMDb",
+  "website_url": "https://paliculasapp-angular.000webhostapp.com"
+},{
+  "_id": {
+    "$oid": "60387292d17aed13b07b2e64"
+  },
+  "name": "CRUD-Héroes Angular",
+  "description": "Se desarrolla una aplicación de tipo SPA haciendo uso de Angular, que permite la obtención, inserción, edición y eliminación de héroes, haciendo uso de la RESTful API de Firebase como backend de la aplicación.",
+  "category": "Desarrollo web",
+  "languages": [
+    "HTML",
+    "CSS",
+    "Javascript",
+    "Bootstrap 4",
+    "Angular"
+  ],
+  "created_at": "2020-2021",
+  "image": "",
+  "github_url": "https://github.com/miguel9903/CRUD-Firebase-Angular",
+  "website_url": "https://crud-firebase-angular.000webhostapp.com/"
+},{
+  "_id": {
+    "$oid": "60387304d17aed13b07b2e65"
+  },
+  "name": "Formularios Angular",
+  "description": "Se desarrolla una aplicación de tipo SPA haciendo uso de Angular, en la que se demuestra al manejo de los tipos de formularios con este framework, tanto formularios reactivos (Reactive Forms) como basados en plantillas (Template Driven Forms).",
+  "category": "Desarrollo web",
+  "languages": [
+    "HTML",
+    "CSS",
+    "Javascript",
+    "Bootstrap 4",
+    "Angular"
+  ],
+  "created_at": "2020-2021",
+  "image": "",
+  "github_url": "https://github.com/miguel9903/Formularios-Angular",
+  "website_url": "https://formularios-angular.000webhostapp.com"
+},{
+  "_id": {
+    "$oid": "60387366d17aed13b07b2e66"
+  },
+  "name": "LoginApp Angular",
+  "description": "Se desarrolla una aplicación de tipo SPA haciendo uso de Angular, que permite el registro y autenticación de usuarios, utilizando Firebase Auth REST API como backend de la aplicación.",
+  "category": "Desarrollo web",
+  "languages": [
+    "HTML",
+    "CSS",
+    "Javascript",
+    "Bootstrap 4",
+    "Angular"
+  ],
+  "created_at": "2020-2021",
+  "image": "",
+  "github_url": "https://github.com/miguel9903/LoginApp-Angular",
+  "website_url": "https://firebaselog-angular.000webhostapp.com"
+},{
+  "_id": {
+    "$oid": "6038741cd17aed13b07b2e67"
+  },
+  "name": "Sistema de información web para la gestión de preguntas académicas para los estudiantes de la Universidad Distrital - UDXpertis",
+  "description": "Se desarrolla un sistema de información para los estudiantes que permite la formulación, búsqueda y resolución de preguntas sobre diversas temáticas y asignaturas, de tal manera que compartan sus conocimientos y se ayuden entre sí, resolviendo preguntas sobre la academia. Este proyecto está desarrollado gracias al uso de PHP, Javascript, JQuery, Ajax, Bootstrap 4, HTML/CSS y una base de datos relacional, haciendo uso de MySQL.",
+  "category": "Desarrollo web",
+  "languages": [
+    "HTML",
+    "CSS",
+    "Javascript",
+    "Bootstrap 4",
+    "PHP",
+    "MySQL"
+  ],
+  "created_at": "2019-2020",
+  "image": "",
+  "github_url": "https://github.com/miguel9903/UDXpertis",
+  "website_url": "http://udx.itiud.org/"
+},{
+  "_id": {
+    "$oid": "6038755dd17aed13b07b2e68"
+  },
+  "name": "Aplicativo web para un negocio de muebles - Prontomueble",
+  "description": "Se desarrolla un aplicativo web que permite la gestión de inventario en un negocio de muebles, de tal manera que puedan insertar, modificar, consultar y eliminar, así como gestionar los proveedores y clientes que hacen parte del sistema. Este proyecto está desarrollado con el uso de PHP, Javascript, JQuery, Bootstrap 4, HTML/CSS y una base de datos relacional, haciendo uso de MySQL.",
+  "category": "Desarrollo web",
+  "languages": [
+    "HTML",
+    "CSS",
+    "Javascript",
+    "JQuery",
+    "Bootstrap 4",
+    "PHP",
+    "MySQL"
+  ],
+  "created_at": "2019",
+  "image": "",
+  "github_url": "https://github.com/miguel9903/Prontomueble",
+  "website_url": ""
+},{
+  "_id": {
+    "$oid": "60387632d17aed13b07b2e69"
+  },
+  "name": "Modelado y creación de una BD PostgreSQL con conexión a una aplicación en Java",
+  "description": "Este proyecto consiste en el modelado de una BD (Modelo Relacional y Modelo ER) para una negocio de muebles y su implementación en PostgreSQL. Así mismo, se crea una aplicación en Java que sea capaz de establecer conexión con la BD para recuperar, modificar y eliminar información de la misma, como información de proveedores, muebles y vendedores.",
+  "category": "Desarrollo web",
+  "languages": [
+    "Java",
+    "PostgreSQL"
+  ],
+  "created_at": "2019",
+  "image": "",
+  "github_url": "https://github.com/miguel9903/Modelado-BD-PostgreSQL",
+  "website_url": ""
+}]
