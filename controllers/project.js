@@ -62,7 +62,11 @@ const controller = {
         const updatedProject = req.body;
         Project.findByIdAndUpdate(projectID, updatedProject, { new: true })
                .then(project => {
-                    res.status(200).json(project);
+                    if(!project) {
+                        res.status(404).json({ message: 'Project does not exist' });
+                    } else {
+                        res.status(200).json(project);
+                    }
                })
                .catch(err => {
                     res.status(500).json({
